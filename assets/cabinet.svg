@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f8f6f1"/>
+<circle cx="520" cy="90" r="60" fill="#fff0a6"/>
+
+<rect x="170" y="170" width="300" height="170" rx="18" fill="#c9aa80"/>
+<line x1="270" y1="175" x2="270" y2="335" stroke="#8e7458" stroke-width="5"/>
+<line x1="370" y1="175" x2="370" y2="335" stroke="#8e7458" stroke-width="5"/>
+<circle cx="250" cy="255" r="6" fill="#222"/><circle cx="350" cy="255" r="6" fill="#222"/>
+<rect x="200" y="340" width="22" height="45" rx="7" fill="#5f5144"/><rect x="418" y="340" width="22" height="45" rx="7" fill="#5f5144"/>
+
+<text x="320" y="408" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#191919">Mono Sideboard</text>
+</svg>

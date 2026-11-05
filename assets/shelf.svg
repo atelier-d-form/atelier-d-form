@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f8f6f1"/>
+<circle cx="520" cy="90" r="60" fill="#fff0a6"/>
+
+<rect x="190" y="110" width="260" height="280" rx="18" fill="none" stroke="#7b6754" stroke-width="14"/>
+<line x1="190" y1="200" x2="450" y2="200" stroke="#7b6754" stroke-width="14"/>
+<line x1="190" y1="295" x2="450" y2="295" stroke="#7b6754" stroke-width="14"/>
+<line x1="320" y1="110" x2="320" y2="390" stroke="#7b6754" stroke-width="14"/>
+<rect x="220" y="145" width="70" height="30" rx="8" fill="#f3c623"/><rect x="350" y="235" width="65" height="34" rx="8" fill="#c7a77b"/>
+
+<text x="320" y="408" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#191919">Grid Storage Shelf</text>
+</svg>

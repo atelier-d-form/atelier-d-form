@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 440">
+<rect width="640" height="440" rx="28" fill="#f8f6f1"/>
+<circle cx="520" cy="90" r="60" fill="#fff0a6"/>
+
+<path d="M215 190Q320 130 425 190L400 310Q320 350 240 310Z" fill="#d1b08a"/>
+<path d="M255 315l-20 65M385 315l20 65" stroke="#5f5147" stroke-width="12" stroke-linecap="round"/>
+<circle cx="320" cy="230" r="54" fill="#e5d1ba"/>
+
+<text x="320" y="408" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#191919">Arc Lounge Chair</text>
+</svg>

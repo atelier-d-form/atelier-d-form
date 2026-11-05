@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700">
+<rect width="1000" height="700" rx="42" fill="#f7f5ef"/>
+<circle cx="825" cy="110" r="170" fill="#f3c623" opacity=".22"/>
+<rect x="90" y="90" width="820" height="510" rx="32" fill="#ffffff" stroke="#e8e2d6" stroke-width="3"/>
+<rect x="135" y="135" width="730" height="50" rx="12" fill="#f3efe7"/>
+<circle cx="165" cy="160" r="7" fill="#f3c623"/><circle cx="190" cy="160" r="7" fill="#d8d1c6"/><circle cx="215" cy="160" r="7" fill="#c9c1b6"/>
+<rect x="135" y="225" width="350" height="285" rx="24" fill="#f5f1e9"/>
+<rect x="525" y="225" width="340" height="120" rx="24" fill="#f5f1e9"/>
+<rect x="525" y="385" width="340" height="125" rx="24" fill="#f5f1e9"/>
+<rect x="190" y="340" width="235" height="85" rx="28" fill="#c7a77b"/>
+<rect x="220" y="300" width="175" height="65" rx="24" fill="#dcc39f"/>
+<rect x="215" y="425" width="30" height="60" rx="8" fill="#6c584c"/><rect x="370" y="425" width="30" height="60" rx="8" fill="#6c584c"/>
+<circle cx="610" cy="285" r="34" fill="#f3c623"/><rect x="665" y="270" width="130" height="18" rx="9" fill="#222"/><rect x="665" y="305" width="115" height="10" rx="5" fill="#aaa"/>
+<rect x="565" y="420" width="105" height="55" rx="16" fill="#222"/><rect x="700" y="420" width="105" height="55" rx="16" fill="#f3c623"/>
+<text x="500" y="648" text-anchor="middle" font-family="Arial" font-size="35" font-weight="700" fill="#191919">Furniture shaped by modern living.</text>
+</svg>
